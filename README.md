@@ -1,5 +1,5 @@
 # Curso_dalto
 Repositorio de prueba y aprendizaje
 
-##descripción
+## descripción
 Este es un repositorio de aprendizaje de Github
